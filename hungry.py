@@ -1,3 +1,6 @@
-print("I am hungry")
-
-print("Hi How are you??")
+status = input("Hey , are you Hungry??")
+if status == 'yes':
+    print("Let's go n eat samosa")
+else:
+    print("Do Your HomeWork")
+    
